@@ -1,3 +1,15 @@
+# Fully Animated SaaS Landing Page 
+
+A professional SaaS landing page for design tools, built with **Next.js**, **React**, **TailwindCSS**, and **Framer Motion**. Fully responsive and packed with smooth animations for a stunning user experience.  
+
+## Page Features:  
+- **Hero Section**: Eye-catching headline and dynamic visuals.  
+- **Features Section**: Clear overview of key product features.  
+- **FAQs Section**: Answers to common questions.  
+- **Footer**: Important links, contact info, and social media.  
+
+Modern, interactive, and designed to impress!  
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
